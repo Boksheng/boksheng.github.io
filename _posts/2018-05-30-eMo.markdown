@@ -2,9 +2,9 @@
 layout: post
 ---
 
-![](/images/fulls/03.jpg){: .fit.image}
+![](/uploads/01.jpeg){: .fit.image}
 
-Anger | Joy | Sadness | Shame | Guilt | Disgust
+| Anger | Joy | Sadness | Shame | Guilt | Disgust |
 
 Text is a difficult medium for communicating emotions.
 
