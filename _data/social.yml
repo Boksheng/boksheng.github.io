@@ -1,4 +1,8 @@
-- name:
-  link:
+- name: linkedin
+  link: 'https://www.linkedin.com/in/bok-sheng-gan/'
   social_icon: RSS
+  new_window: false
+- name: Github
+  link: 'https://github.com/Boksheng'
+  social_icon:
   new_window: false
