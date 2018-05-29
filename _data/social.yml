@@ -1,8 +1,8 @@
-- name: Facebook
-  link: 'https://www.facebook.com/comfusionllc'
-  social_icon: Facebook
-  new_window: true
-- name: RSS
-  link: '/feed.xml'
+- name: linkedin
+  link: 'https://www.linkedin.com/in/bok-sheng-gan/'
   social_icon: RSS
-  new_window: true
+  new_window: false
+- name: Github
+  link: 'https://github.com/Boksheng'
+  social_icon:
+  new_window: false
