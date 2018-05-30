@@ -53,7 +53,7 @@ The cell network takes three inputs.
 5. h\_t is created from the network based
 6. This single unit makes decision by considering the current input, previous ouput and previous memory
 
-![](/uploads/lstm-2.png)
+![](/uploads/lstm-3.png)
 
 #### Building the LSTM
 
