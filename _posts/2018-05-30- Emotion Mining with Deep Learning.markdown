@@ -57,4 +57,4 @@ The cell network takes three inputs.
 
 #### Building the LSTM
 
-![](/uploads/lstm-build-1.png)
+![](/uploads/lstm-build-2.png)
