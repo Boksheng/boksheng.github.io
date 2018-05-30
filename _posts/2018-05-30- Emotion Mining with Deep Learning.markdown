@@ -31,7 +31,7 @@ Support Vector Machine(SVC) and Multinomial Naive Bayes(MNB)
 
 A compilation of 7,666 sentences provided by 1,096 culturally divergent participants who were questioned about experiences and reactions that related to the emotions of anger, disgust, fear, joy, sadness, and guilt.
 
-![](/uploads/isear-dataset.png)
+![](/uploads/isear-dataset-1.png)
 
 #### Baseline Model Results (Accuracy)
 
