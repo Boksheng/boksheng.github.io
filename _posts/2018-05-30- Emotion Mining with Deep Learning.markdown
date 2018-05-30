@@ -35,13 +35,11 @@ A compilation of 7,666 sentences provided by 1,096 culturally divergent particip
 
 #### Baseline Model Results (Accuracy)
 
-The best result came from SVC with Count Vectorizer
-
-4 Variations:
+The best result came from SVC with Count Vectorizer. 4 Variations:
 
 1. SVC and Count Vectorizer
 2. SVC and Tfidf
 3. MNB and Count Vectorizer
 4. MNB and Tfidf
 
-![](/uploads/baseline-results-1.png)
+![](/uploads/baseline-results-2.png)
