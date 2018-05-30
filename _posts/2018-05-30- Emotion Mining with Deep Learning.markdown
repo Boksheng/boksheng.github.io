@@ -43,3 +43,16 @@ The best result came from SVC with Count Vectorizer. 4 Variations:
 4. MNB and Tfidf
 
 ![](/uploads/baseline-results-2.png)
+
+#### Long Short Term Memory(LSTM)
+
+The cell network takes three inputs.
+
+1. X\_t is the input of the current time step.
+2. h\_t-1 is the output from the previous LSTM unit
+3. C\_t-1 is the “memory” of the previous unit
+4. C\_t-1 goes through network and merge with X\_t to create new “memory” – C\_t.
+5. h\_t is created from the network based
+6. This single unit makes decision by considering the current input, previous ouput and previous memory
+
+![](/uploads/lstm-1.png)
