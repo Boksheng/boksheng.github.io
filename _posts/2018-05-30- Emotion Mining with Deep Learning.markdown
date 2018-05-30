@@ -42,8 +42,6 @@ The best result came from SVC with Count Vectorizer. 4 Variations:
 3. MNB and Count Vectorizer
 4. MNB and Tfidf
 
-![](/uploads/baseline-results-2.png)
-
 #### Long Short Term Memory(LSTM)
 
 The cell network takes three inputs.
