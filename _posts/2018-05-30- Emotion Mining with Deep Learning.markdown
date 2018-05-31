@@ -10,10 +10,12 @@ Text is a difficult medium for communicating emotions. Is there a way to predict
 
 This project is made to explore emotion mining using deep learning and it has 2 parts to it:
 
-1. Emotion Mining on Text
-2. Construction of Emotion Profile of a Novel
+* Emotion Mining on Text
+* Construction of Emotion Profile of a Novel
 
 ## Part 1: Emotion Mining on Text
+
+&nbsp;
 
 #### Problem Statement:
 
@@ -37,10 +39,10 @@ A compilation of 7,666 sentences provided by 1,096 culturally divergent particip
 
 The best result came from SVC with Count Vectorizer. 4 Variations:
 
-1. SVC and Count Vectorizer
-2. SVC and Tfidf
-3. MNB and Count Vectorizer
-4. MNB and Tfidf
+* SVC and Count Vectorizer
+* SVC and Tfidf
+* MNB and Count Vectorizer
+* MNB and Tfidf
 
 #### Long Short Term Memory(LSTM)
 
@@ -53,7 +55,7 @@ The cell network takes three inputs.
 5. h\_t is created from the network based
 6. This single unit makes decision by considering the current input, previous ouput and previous memory
 
-![](/uploads/lstm-3.png)
+![](/uploads/lstm-5.png)
 
 #### Building the LSTM
 
