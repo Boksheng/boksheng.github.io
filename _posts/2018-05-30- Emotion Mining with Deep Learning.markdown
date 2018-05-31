@@ -33,7 +33,7 @@ Support Vector Machine(SVC) and Multinomial Naive Bayes(MNB)
 
 A compilation of 7,666 sentences provided by 1,096 culturally divergent participants who were questioned about experiences and reactions that related to the emotions of anger, disgust, fear, joy, sadness, and guilt.
 
-![](/uploads/screen-shot-2018-05-31-at-10-19-16-1.png)
+![](/uploads/screen-shot-2018-05-31-at-10-19-16-2.png)
 
 #### Baseline Model Results (Accuracy)
 
@@ -55,11 +55,11 @@ The cell network takes three inputs.
 5. h\_t is created from the network based
 6. This single unit makes decision by considering the current input, previous ouput and previous memory
 
-![](/uploads/screen-shot-2018-05-31-at-10-20-46-1.png)
+![](/uploads/screen-shot-2018-05-31-at-10-20-46-2.png)
 
 #### Building the LSTM
 
-![](/uploads/lstm-build-2.png)
+![](/uploads/screen-shot-2018-05-31-at-10-25-24.png)
 
 #### LSTM Results
 
